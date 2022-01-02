@@ -4,7 +4,7 @@ const siteMetadata = {
   title: "Emran Hossen's tech Blog.",
   author: 'Emran Hossen',
   headerTitle: 'Emran Hossen',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Blog post about programming and software engineering',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
